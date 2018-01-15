@@ -1,0 +1,12 @@
+{
+	"name": "openaes",
+	"authors": [
+		"Rin Dev"
+	],
+	"dependencies": {
+		"openssl": "~>1.1.6"
+	},
+	"description": "A wrapper around the Deimos openssl AES headers",
+	"copyright": "Copyright © 2018, Rin Dev",
+	"license": "BSD 3-clause"
+}

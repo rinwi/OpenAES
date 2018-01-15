@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+openaes.so
+openaes.dylib
+openaes.dll
+openaes.a
+openaes.lib
+openaes-test-*
+*.exe
+*.o
+*.obj
+*.lst
